@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.1';
-    team = 'Cloud Stars';
+    team = 'Branch New Cloud Stars';
 }
 module.exports = AppConfig;
